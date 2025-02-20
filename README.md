@@ -56,7 +56,7 @@
       <a href="https://m.place.naver.com/my/checkin" target="_blank">https://m.place.naver.com/my/checkin</a> 😊
     </li>
     <li>영수증을 터치 후 카메라로 영수증을 찍어주세요! 😊</li>
-    <li>후에 나오는 리뷰를 순서대로 작성해주세요! 😊</li>
+    <li>찍은 뒤에 나오는 리뷰를 순서대로 작성해주세요! 😊</li>
     <li>보여주시면 주류/음료 한 개가 서비스로 지급됩니다! 😊</li>
   </ol>
 </body>
